@@ -3,7 +3,7 @@ MNIST DIGIT RECOGNITION USING NEURAL NETWORK
 
 
 This is a basic neural network designed to recognize a number from a given image based on the MNIST digit dataset
-
+reference:https://www.youtube.com/watch?v=w8yWXqWQYmU
 
 
 The project involves a from scratCh implementation without importing pre made libraries.
